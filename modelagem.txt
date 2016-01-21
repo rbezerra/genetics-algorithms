@@ -1,0 +1,9 @@
+ - matriz de custos
+ - matriz de qtds
+ - oferta de cada fábrica
+ - demanda de cada destino
+ retorno da avaliacao
+ - custo total = elementos da matriz de custos x elementos da matriz de qtds
+ restricao
+ - soma de cada linha da matriz de qtds = oferta de cada fábrica
+ - soma de cada coluna da matriz de qtds  = demanda de cada depósito
